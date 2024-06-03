@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Nike Shoes",
+        "image": "http://pngimg.com/uploads/running_shoes/running_shoes_PNG5782.png",
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "colors": [
+            "#ff0",
+            "#1BBFE9",
+            "#1B2FE9",
+            "#080481"
+        ]
+    },
+
+    {
+        "name": "Nike Shoes",
+        "image": "http://pngimg.com/uploads/running_shoes/running_shoes_PNG5782.png",
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "colors": [
+            "#ff0",
+            "#1BBFE9",
+            "#1B2FE9",
+            "#080481"
+        ]
+    },
+
+    {
+        "name": "Nike Shoes",
+        "image": "http://pngimg.com/uploads/running_shoes/running_shoes_PNG5782.png",
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "colors": [
+            "#ff0",
+            "#1BBFE9",
+            "#1B2FE9",
+            "#080481"
+        ]
+    }
+]

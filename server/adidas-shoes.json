@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Adidas gazelle schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/698e41ae0196408eb16aa7fb008046ad_9366/Gazelle_Schoenen_Blauw_BB5478_01_standard.jpg",
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff",
+            "#ffff00"
+        ]
+    },
+    {
+        "name": " Adidas Stan Smith schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b47d77eba6f945ea8dabac210127b11e_9366/Stan_Smith_Schoenen_Wit_FX5501_01_standard.jpg",
+        "sizes": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#00ffff",
+            "#ff6600",
+            "#9933ff"
+        ]
+    },
+    {
+        "name": "Adidas Samba OG schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c70105150234ac4b948a8bf01187e0c_9366/Samba_OG_Schoenen_Zwart_B75807_01_standard.jpg",
+        "sizes": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "colors": [
+            "#66ff66",
+            "#3366ff",
+            "#ff3399",
+            "#ffff33"
+        ]
+    },
+    {
+        "name": "Adidas low cl The Grinch schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fa77f09af42b4c419b2b92b9a8167256_9366/Forum_Low_CL_The_Grinch_Schoenen_Beige_ID8896_01_standard.jpg",
+        "sizes": [
+            "19",
+            "20",
+            "21",
+            "22"
+        ],
+        "colors": [
+            "#339933",
+            "#cc6600",
+            "#6633ff",
+            "#ff3333"
+        ]
+    },
+    {
+        "name": "Adidas Ozweego schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/00a3719b33da4e3fa4745d98a536c773_9366/OZWEEGO_Schoenen_Grijs_ID3186_01_standard.jpg",
+        "sizes": [
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "colors": [
+            "#ff6633",
+            "#33cc33",
+            "#993399",
+            "#ffff99"
+        ]
+    },
+    {
+        "name": "Adidas Superstar schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Superstar_Schoenen_Wit_EG4958_01_standard.jpg",
+        "sizes": [
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "colors": [
+            "#ffcc00",
+            "#66ffcc",
+            "#3300ff",
+            "#ff0066"
+        ]
+    },
+    {
+        "name": "Adidas Copa Mundial voetbalschoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b285b4143d6742fbb4dca7fa00dbdc5e_9366/Copa_Mundial_Voetbalschoenen_Zwart_015110_01_standard.jpg",
+        "sizes": [
+            "31",
+            "32",
+            "33",
+            "34"
+        ],
+        "colors": [
+            "#33ccff",
+            "#ff6699",
+            "#99ff33",
+            "#ffcc99"
+        ]
+    },
+    {
+        "name": "Adidas Busenitz pro schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/87e278ebf8cf4706a3bda7fa00e450a5_9366/Busenitz_Pro_Schoenen_Zwart_G48060_01_standard.jpg",
+        "sizes": [
+            "35",
+            "36",
+            "37",
+            "38"
+        ],
+        "colors": [
+            "#ff3333",
+            "#33ff33",
+            "#3333ff",
+            "#ffff33"
+        ]
+    },
+    {
+        "name": "Adidas NMD R1 schoenen",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/62d96641e799450fbbdfad0800cb06ed_9366/NMD_R1_Primeblue_Schoenen_Zwart_GZ9256_01_standard.jpg",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#33ffcc",
+            "#ff9966",
+            "#ccff33",
+            "#ff3333"
+        ]
+    }
+]
+ 

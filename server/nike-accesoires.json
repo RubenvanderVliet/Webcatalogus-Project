@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Nike Heritage",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/58cda43a-c817-4afe-a5a9-4a8070b42704/heritage-cross-body-bag-bhdNKT.png",
+        "sizes": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff",
+            "#ffff00"
+        ]
+    },
+    {
+        "name": "Nike Yoga Mat Bags",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1fe1aa63-445f-4d99-999f-caf6b8bfee7d/yoga-mat-bag-phdLsb.png",
+        "sizes": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#00ffff",
+            "#ff6600",
+            "#9933ff"
+        ]
+    },
+    {
+        "name": "Nike Utility Speed",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab94d3e8-e69f-45af-85e0-f5a958de7dde/utility-speed-hip-pack-NZkTdS.png",
+        "sizes": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "colors": [
+            "#66ff66",
+            "#3366ff",
+            "#ff3399",
+            "#ffff33"
+        ]
+    },
+    {
+        "name": "Nike Dri-FIT Apex",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0f87adde-6366-49e3-9ab8-3ee6a7ecd64d/dri-fit-apex-camo-print-bucket-hat-cgxVDb.png",
+        "sizes": [
+            "19",
+            "20",
+            "21",
+            "22"
+        ],
+        "colors": [
+            "#339933",
+            "#cc6600",
+            "#6633ff",
+            "#ff3333"
+        ]
+    },
+    {
+        "name": "Nike Heritage Eugene Backpack",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/faed1deb-18aa-44ff-b4c7-dcbd0e7f5a5f/heritage-eugene-backpack-wZgccn.png",
+        "sizes": [
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "colors": [
+            "#ff6633",
+            "#33cc33",
+            "#993399",
+            "#ffff99"
+        ]
+    },
+    {
+        "name": "Nike Everyday Plus",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/64796072-1468-4e18-927d-2febd2fb648c/everyday-plus-cushioned-crew-socks-STZ91H.png",
+        "sizes": [
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "colors": [
+            "#ffcc00",
+            "#66ffcc",
+            "#3300ff",
+            "#ff0066"
+        ]
+    },
+    {
+        "name": "Liverpool F.C. Academy",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5e19b11-ff1d-4686-862a-fcc3b249fdd0/liverpool-fc-academy-football-gloves-7M7vHk.png",
+        "sizes": [
+            "31",
+            "32",
+            "33",
+            "34"
+        ],
+        "colors": [
+            "#33ccff",
+            "#ff6699",
+            "#99ff33",
+            "#ffcc99"
+        ]
+    },
+    {
+        "name": "Nike Everyday Plus Cushioneds",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7b901b6-5e4c-46e8-8005-cc380efb3e9e/everyday-plus-cushioned-crew-socks-HQXgXw.png",
+        "sizes": [
+            "35",
+            "36",
+            "37",
+            "38"
+        ],
+        "colors": [
+            "#ff3333",
+            "#33ff33",
+            "#3333ff",
+            "#ffff33"
+        ]
+    },
+    {
+        "name": "Nike Club Unstructured Swoosh Cap",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a8b2f86e-0147-4913-ad56-5260bdd92bf4/club-unstructured-swoosh-cap-s4mdgD.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#33ffcc",
+            "#ff9966",
+            "#ccff33",
+            "#ff3333"
+        ]
+    }
+]

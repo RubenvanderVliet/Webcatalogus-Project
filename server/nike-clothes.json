@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Nike Sportswear Tech Fleece Windrunner",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bfc0c4a9-c82b-4b25-bde6-52f6d02dc018/sportswear-tech-fleece-windrunner-hoodie-4BdVWb.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff",
+            "#ffff00"
+        ]
+    },
+    {
+        "name": "Jordan Brooklyn Fleece",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3270c75a-6ecf-4d31-9c32-f61bdb844d72/jordan-brooklyn-fleece-printed-pullover-hoodie-r7z9Bz.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#00ffff",
+            "#ff6600",
+            "#9933ff"
+        ]
+    },
+    {
+        "name": "Nike Sportswear Club Fleece",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/njqltik2pun0qj9nhoor/sportswear-club-fleece-pullover-hoodie-tz1kGP.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#ffff00",
+            "#ffcc00",
+            "#ff9933",
+            "#ff6666"
+        ]
+    },
+    {
+        "name": "Nike Sportswear Club Fleece",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9fcf5803-ab02-421f-9b15-74ba986b0702/sportswear-club-fleece-crew-sr9fz9.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#00ff00",
+            "#33cc33",
+            "#66ff66",
+            "#99ff99"
+        ]
+    },
+    {
+        "name": "Nike Solo Swoosh",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fc1e5d2d-1c26-4d77-851c-bd8e889fa25d/solo-swoosh-fleece-crew-Wdc3lX.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#0000ff",
+            "#3366ff",
+            "#6699ff",
+            "#99ccff"
+        ]
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b12fa9a-9bdf-4208-8530-44833a757bff/sportswear-tech-fleece-crew-KnHXrB.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#ffff00",
+            "#00ff00",
+            "#0000ff",
+            "#ff00ff"
+        ]
+    },
+    {
+        "name": "Nike Sportswear Tech Pack",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d43d9c29-a2c7-4bc4-8485-02fb174e2630/sportswear-tech-pack-long-sleeve-jumper-MVbWhF.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#00ffff",
+            "#ff6600",
+            "#9933ff",
+            "#99ccff"
+        ]
+    },
+    {
+        "name": "Nike Life",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1ab0e45b-10f8-4be9-814f-397b6f412900/life-long-sleeve-military-henley-jumper-rJcg7j.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#ff6600",
+            "#9933ff",
+            "#99ccff"
+        ]
+    },
+    {
+        "name": "Nike Dri-FIT Standard Issue",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/acc540a6-24a1-4274-9753-d6f7e0a5a3b8/dri-fit-standard-issue-golf-cardigan-9NK3m4.png",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "#ffff00",
+            "#00ffff",
+            "#ff00ff",
+            "#00ff00"
+        ]
+    }
+]

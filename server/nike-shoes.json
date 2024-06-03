@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Nike Air Max Plus",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/877d30e7-4880-46f8-aa71-6704eb7d944d/air-max-plus-shoes-dT9k7p.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff",
+            "#ffff00"
+        ]
+    },
+    {
+        "name": "Nike Air Max Plus Drift",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/198e37ad-6f8f-4fe4-b888-1bd0c32ee2d9/air-max-plus-drift-shoes-Jzs549.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#00ffff",
+            "#ff6600",
+            "#9933ff"
+        ]
+    },
+    {
+        "name": "Nike Air Max Plus Utility",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d21ab10d-19a5-4973-9db0-9231b49955bb/air-max-plus-utility-shoes-HkwSWp.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ffff00",
+            "#ffcc00",
+            "#ff9933",
+            "#ff6666"
+        ]
+    },
+    {
+        "name": "Nike Alphafly 3",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/477abbf8-b37a-4fe6-b516-08e294a8487a/alphafly-3-road-racing-shoes-B9kfmF.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#00ff00",
+            "#33ff33",
+            "#66ff66",
+            "#99ff99"
+        ]
+    },
+    {
+        "name": "Nike Streakfly",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/770a12bf-dcf3-4921-abfd-2aa7b9f7652a/streakfly-road-racing-shoes-xX3n51.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#0000ff",
+            "#3366ff",
+            "#6699ff",
+            "#99ccff"
+        ]
+    },
+    {
+        "name": "Nike Invincible 3",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4b310915-55e2-4705-8285-10ec6485b80b/invincible-3-road-running-shoes-9lqlcK.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#ff6699",
+            "#99ff33",
+            "#ffcc99"
+        ]
+    },
+    {
+        "name": "Nike Phantom Luna 2 Elite SE",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/15a717ab-b02e-43ad-814e-24eb4fd9e487/phantom-luna-2-elite-se-fg-high-top-football-boot-ncVWxs.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff",
+            "#ffff00"
+        ]
+    },
+    {
+        "name": "Nike Mercurial Vapor 15 x Air Max Plus",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a1dcf9d7-b4c3-4569-9a14-1b5f2185e677/mercurial-vapor-15-air-max-plus-fg-low-top-football-boot-fFnGXT.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ff00ff",
+            "#00ffff",
+            "#ff6600",
+            "#9933ff"
+        ]
+    },
+    {
+        "name": "Nike Mercurial Superfly 9",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e3dd7098-5753-466a-b9f6-f1725e208395/mercurial-superfly-9-fg-high-top-football-boot-j60bLS.png",
+        "sizes": [
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "colors": [
+            "#ffff00",
+            "#ffcc00",
+            "#ff9933",
+            "#ff6666"
+        ]
+    }
+]
